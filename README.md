@@ -1,10 +1,10 @@
-# HTML Issue Bot 9000
+e# HTML Issue Bot 9000
 
 ## Learning Goals
 
 - Demonstrate writing valid HTML
 
-## Introduction
+## Introductione
 
 Let's practice using the W3C's HTML Validator!
 
